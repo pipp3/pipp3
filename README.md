@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bice Experiencias](https://github.com/pipp3/bice_experiencias)
 
-- 🌱 I’m currently learning **React,NextJS,NestJS and Laravel**
+- 🌱 I’m currently learning **NextJS and NestJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
