@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Muñoz</h1>
-<h3 align="center">A passionate FullStack developer from Chile. I am currently in my 4th year studying Computer and Telecommunications Engineering at Universidad Diego Portales.</h3>
+<h3 align="center">A passionate FullStack developer from Chile. I am currently in my last year studying Computer and Telecommunications Engineering at Universidad Diego Portales.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pipp3&label=Profile%20views&color=0e75b6&style=flat" alt="pipp3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pipp3" alt="pipp3" /></a> </p>
 
-- 🔭 I’m currently working on [Bice Experiencias](https://github.com/pipp3/bice_experiencias)
+- 🔭 I’m currently working on [Cotizador ELM BackEnd](https://github.com/pipp3/backend_cotizador_eml) and [Cotizador ELM FrontEnd](https://github.com/pipp3/frontend_cotizador_eml)
 
 - 🌱 I’m currently learning **NextJS and NestJS**
 
