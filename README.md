@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pipp3" alt="pipp3" /></a> </p>
 
-- 🔭 I’m currently working on [Cotizador ELM BackEnd](https://github.com/pipp3/backend_cotizador_eml) and [Cotizador ELM FrontEnd](https://github.com/pipp3/frontend_cotizador_eml)
+- 🔭 I'm currently working on [Cotizador ELM BackEnd](https://github.com/pipp3/backend_cotizador_eml) and [Cotizador ELM FrontEnd](https://github.com/pipp3/frontend_cotizador_eml)
 
-- 🌱 I’m currently learning **NextJS and NestJS**
+- 🌱 I'm currently learning **NextJS and NestJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://astro.build/assets/astro-logo.svg" alt="astro" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/withastro/astro/main/assets/social/banner-minimal.png" alt="astro" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -44,10 +44,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   </a>
   <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gin-gonic/logo/main/gin-logo.png" alt="gin" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gin/gin-original.svg" alt="gin" width="40" height="40"/>
   </a>
   <a href="https://bun.uptrace.dev/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/122379423?s=200&v=4" alt="bun" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="bun" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
